@@ -1,2 +1,6 @@
 this is firstfile
+<<<<<<< HEAD
 This changes are done by devloper1
+=======
+this changes are done by devloper2
+>>>>>>> b44d1715502173576fc145ce804058f9297046e7
